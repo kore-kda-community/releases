@@ -1,13 +1,7 @@
-# kore-kda-community Releases
+# Releases — kore-kda-community
 
-Public binary releases for kore-kda-community projects.
+Every tagged build from every project in this org lands here.
 
-Source code lives in private repositories. Build artifacts are published here
-as GitHub Release assets, organized by project folder.
+## Download
 
-## Projects
-
-- **kore-kda-community** — Releases for kore-kda-community
-
-Each project's binaries are attached to tagged releases (e.g. `v0.1.1`).
-Do not commit binaries to this repo — GoReleaser publishes them as release assets.
+    https://github.com/kore-kda-community/releases
